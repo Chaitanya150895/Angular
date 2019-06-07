@@ -9,11 +9,11 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./servers.component.css']
    //styleUrls: ['./servers.component.css']
 
-   styles: [`
-   p{
-     color: red;
-   }
- `]
+  // styles: [`
+  // p{
+   //  color: red;
+   //}
+ //`]
 })
 export class ServersComponent implements OnInit {
 
